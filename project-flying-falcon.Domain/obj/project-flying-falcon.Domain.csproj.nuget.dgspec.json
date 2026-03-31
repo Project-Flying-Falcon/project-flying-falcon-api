@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {}
+    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {}
   },
   "projects": {
-    "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+        "projectUniqueName": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
         "projectName": "project-flying-falcon.Domain",
-        "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
-        "packagesPath": "/Users/quinnmoore/.nuget/packages/",
-        "outputPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/obj/",
+        "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+        "packagesPath": "/Users/kaiswitzer/.nuget/packages/",
+        "outputPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/quinnmoore/.nuget/NuGet/NuGet.Config"
+          "/Users/kaiswitzer/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
