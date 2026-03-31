@@ -88,8 +88,8 @@
     },
     "project-flying-falcon.Domain/1.0.0": {
       "type": "project",
-      "path": "../project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
-      "msbuildProject": "../project-flying-falcon.Domain/project-flying-falcon.Domain.csproj"
+      "path": "../project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+      "msbuildProject": "../project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -123,8 +123,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj": {
-              "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj"
+            "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+              "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
             }
           }
         }

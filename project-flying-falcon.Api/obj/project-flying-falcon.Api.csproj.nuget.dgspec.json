@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj": {
-                "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj"
+              "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+                "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
               }
             }
           }
@@ -490,14 +490,14 @@
         }
       }
     },
-    "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj": {
+    "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
+        "projectUniqueName": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
         "projectName": "project-flying-falcon.Domain",
-        "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
+        "projectPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
         "packagesPath": "/Users/quinnmoore/.nuget/packages/",
-        "outputPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/obj/",
+        "outputPath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/quinnmoore/.nuget/NuGet/NuGet.Config"

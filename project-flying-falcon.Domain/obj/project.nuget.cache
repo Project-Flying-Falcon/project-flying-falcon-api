@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFMTJ1NBqJU=",
+  "dgSpecHash": "wD+99ew6ocs=",
   "success": true,
-  "projectFilePath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
+  "projectFilePath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

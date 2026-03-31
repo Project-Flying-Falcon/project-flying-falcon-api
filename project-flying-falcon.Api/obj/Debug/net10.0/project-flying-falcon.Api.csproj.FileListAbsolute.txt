@@ -33,3 +33,4 @@
 /Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Api/obj/Debug/net10.0/ref/project-flying-falcon.Api.dll
 /Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Api/bin/Debug/net10.0/project-flying-falcon.Domain.dll
 /Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Api/bin/Debug/net10.0/project-flying-falcon.Domain.pdb
+/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Api/obj/Debug/net10.0/project-flying-falcon.Api.sourcelink.json
