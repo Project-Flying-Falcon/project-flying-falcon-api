@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="project-flying-falcon.Api/project-flying-falcon.Api.csproj" />
+  <Project Path="project-flying-falcon.Data/project-flying-falcon.Data.csproj" />
   <Project Path="project-flying-falcon.Domain/project-flying-falcon.Domain.csproj" />
 </Solution>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-flying-falcon.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b488ae7e86b4364cd70d9fea478fabd27fba18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+613c2e37853b17638ac24111a1db5650866f1776")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-flying-falcon.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-flying-falcon.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
