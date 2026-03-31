@@ -1,4 +1,5 @@
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Flying.Falcon.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Register StoreContext with SQLite
+// Think of this like registering a shared resource that any class can request
+builder.Services.AddDbContext<StoreContext>(options =>
+    options.UseSqlite("Data Source=../FlyingFalcon.sqlite",
+        b => b.MigrationsAssembly("project-flying-falcon.Api"))
+);
 
 var app = builder.Build();
 
