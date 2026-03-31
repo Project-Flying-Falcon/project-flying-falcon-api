@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Cj4FZAlvMGg=",
+  "dgSpecHash": "5Qhwndzkzto=",
   "success": true,
-  "projectFilePath": "/Users/quinnmoore/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
+  "projectFilePath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
   "expectedPackageFiles": [
-    "/Users/quinnmoore/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
-    "/Users/quinnmoore/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/kaiswitzer/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/microsoft.extensions.apidescription.server/10.0.0/microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/microsoft.openapi/2.4.1/microsoft.openapi.2.4.1.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/swashbuckle.aspnetcore/10.1.7/swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/swashbuckle.aspnetcore.swagger/10.1.7/swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.1.7/swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "/Users/kaiswitzer/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.1.7/swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
   ],
   "logs": []
 }
