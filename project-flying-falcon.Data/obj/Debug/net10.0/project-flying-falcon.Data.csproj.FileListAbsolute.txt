@@ -14,3 +14,19 @@
 /Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/refint/project-flying-falcon.Data.dll
 /Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.pdb
 /Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/ref/project-flying-falcon.Data.dll
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/bin/Debug/net10.0/project-flying-falcon.Data.deps.json
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/bin/Debug/net10.0/project-flying-falcon.Data.dll
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/bin/Debug/net10.0/project-flying-falcon.Data.pdb
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/bin/Debug/net10.0/project-flying-falcon.Domain.dll
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/bin/Debug/net10.0/project-flying-falcon.Domain.pdb
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.csproj.AssemblyReference.cache
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.AssemblyInfoInputs.cache
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.AssemblyInfo.cs
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.csproj.CoreCompileInputs.cache
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.sourcelink.json
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-.E5BEA07F.Up2Date
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.dll
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/refint/project-flying-falcon.Data.dll
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/project-flying-falcon.Data.pdb
+/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/Debug/net10.0/ref/project-flying-falcon.Data.dll

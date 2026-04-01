@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj": {}
+    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj": {}
   },
   "projects": {
-    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj": {
+    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
+        "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
         "projectName": "project-flying-falcon.Api",
-        "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
-        "packagesPath": "/Users/kaiswitzer/.nuget/packages/",
-        "outputPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Api/obj/",
+        "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Api/project-flying-falcon.Api.csproj",
+        "packagesPath": "/Users/aidenclerico/.nuget/packages/",
+        "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kaiswitzer/.nuget/NuGet/NuGet.Config"
+          "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {
-                "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj"
+              "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {
+                "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj"
               },
-              "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
-                "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
+              "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+                "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
               }
             }
           }
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -61,9 +61,23 @@
               "target": "Package",
               "version": "[10.0.5, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[10.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[10.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -89,7 +103,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -507,17 +521,17 @@
         }
       }
     },
-    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {
+    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
+        "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
         "projectName": "project-flying-falcon.Data",
-        "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
-        "packagesPath": "/Users/kaiswitzer/.nuget/packages/",
-        "outputPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Data/obj/",
+        "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
+        "packagesPath": "/Users/aidenclerico/.nuget/packages/",
+        "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kaiswitzer/.nuget/NuGet/NuGet.Config"
+          "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -529,8 +543,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
-                "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
+              "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+                "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
               }
             }
           }
@@ -545,7 +559,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -572,7 +586,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -850,17 +864,17 @@
         }
       }
     },
-    "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+        "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
         "projectName": "project-flying-falcon.Domain",
-        "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
-        "packagesPath": "/Users/kaiswitzer/.nuget/packages/",
-        "outputPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.domain/obj/",
+        "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+        "packagesPath": "/Users/aidenclerico/.nuget/packages/",
+        "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kaiswitzer/.nuget/NuGet/NuGet.Config"
+          "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -884,7 +898,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -905,7 +919,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

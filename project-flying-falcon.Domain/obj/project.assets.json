@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/kaiswitzer/.nuget/packages/": {}
+    "/Users/aidenclerico/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
+      "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
       "projectName": "project-flying-falcon.Domain",
-      "projectPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
-      "packagesPath": "/Users/kaiswitzer/.nuget/packages/",
-      "outputPath": "/Users/kaiswitzer/Desktop/Coding/Flying Falcon/project-flying-falcon-api/project-flying-falcon.Domain/obj/",
+      "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Domain/project-flying-falcon.Domain.csproj",
+      "packagesPath": "/Users/aidenclerico/.nuget/packages/",
+      "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kaiswitzer/.nuget/NuGet/NuGet.Config"
+        "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
