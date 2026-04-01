@@ -10,7 +10,7 @@
 
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>project_flying_falcon.Data</RootNamespace>
+    <RootNamespace>Flying.Falcon.Data</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
