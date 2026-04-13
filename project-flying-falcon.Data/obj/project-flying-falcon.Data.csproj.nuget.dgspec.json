@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {}
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj": {}
   },
   "projects": {
-    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj": {
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
+        "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj",
         "projectName": "project-flying-falcon.Data",
-        "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/project-flying-falcon.Data.csproj",
-        "packagesPath": "/Users/aidenclerico/.nuget/packages/",
-        "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.Data/obj/",
+        "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj",
+        "packagesPath": "C:\\Users\\13302\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\13302\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
-                "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj"
+              "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {
+                "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj"
               }
             }
           }
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -347,17 +347,17 @@
         }
       }
     },
-    "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj": {
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj",
         "projectName": "project-flying-falcon.Domain",
-        "projectPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/project-flying-falcon.Domain.csproj",
-        "packagesPath": "/Users/aidenclerico/.nuget/packages/",
-        "outputPath": "/Users/aidenclerico/Downloads/project-flying-falcon-api/project-flying-falcon.domain/obj/",
+        "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj",
+        "packagesPath": "C:\\Users\\13302\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/aidenclerico/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\13302\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -402,7 +402,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
