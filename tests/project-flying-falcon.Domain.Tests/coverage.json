@@ -1,0 +1,303 @@
+{
+  "project-flying-falcon.Domain.dll": {
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\Orders\\Order.cs": {
+      "Flying.Falcon.Domain.Orders.Order": {
+        "System.Int32 Flying.Falcon.Domain.Orders.Order::get_Id()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Flying.Falcon.Domain.Orders.OrderItem> Flying.Falcon.Domain.Orders.Order::get_Items()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Flying.Falcon.Domain.Orders.Order::get_CreatedDate()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Flying.Falcon.Domain.Orders.Order::get_TotalPrice()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\Orders\\OrderItem.cs": {
+      "Flying.Falcon.Domain.Orders.OrderItem": {
+        "System.Int32 Flying.Falcon.Domain.Orders.OrderItem::get_Id()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "Flying.Falcon.Domain.Catalog.Item Flying.Falcon.Domain.Orders.OrderItem::get_Item()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Flying.Falcon.Domain.Orders.OrderItem::get_Quantity()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Flying.Falcon.Domain.Orders.OrderItem::get_Price()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\Catalog\\Item.cs": {
+      "Flying.Falcon.Domain.Catalog.Item": {
+        "System.Int32 Flying.Falcon.Domain.Catalog.Item::get_Id()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String Flying.Falcon.Domain.Catalog.Item::get_Name()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        },
+        "System.String Flying.Falcon.Domain.Catalog.Item::get_Description()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.String Flying.Falcon.Domain.Catalog.Item::get_Brand()": {
+          "Lines": {
+            "9": 3
+          },
+          "Branches": []
+        },
+        "System.Decimal Flying.Falcon.Domain.Catalog.Item::get_Price()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Flying.Falcon.Domain.Catalog.Rating> Flying.Falcon.Domain.Catalog.Item::get_Ratings()": {
+          "Lines": {
+            "11": 4
+          },
+          "Branches": []
+        },
+        "System.Void Flying.Falcon.Domain.Catalog.Item::AddRating(Flying.Falcon.Domain.Catalog.Rating)": {
+          "Lines": {
+            "41": 1,
+            "42": 1,
+            "43": 1
+          },
+          "Branches": []
+        },
+        "System.Void Flying.Falcon.Domain.Catalog.Item::.ctor()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Void Flying.Falcon.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "16": 2,
+            "17": 2,
+            "18": 2,
+            "19": 0,
+            "20": 0,
+            "22": 2,
+            "23": 0,
+            "24": 0,
+            "26": 2,
+            "27": 0,
+            "28": 0,
+            "30": 2,
+            "31": 0,
+            "32": 0,
+            "34": 2,
+            "35": 2,
+            "36": 2,
+            "37": 2,
+            "38": 2
+          },
+          "Branches": [
+            {
+              "Line": 18,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 27,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 22,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 45,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 26,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 63,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 30,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 92,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\Catalog\\Rating.cs": {
+      "Flying.Falcon.Domain.Catalog.Rating": {
+        "System.Int32 Flying.Falcon.Domain.Catalog.Rating::get_Id()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Flying.Falcon.Domain.Catalog.Rating::get_Stars()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        },
+        "System.String Flying.Falcon.Domain.Catalog.Rating::get_UserName()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.String Flying.Falcon.Domain.Catalog.Rating::get_Review()": {
+          "Lines": {
+            "9": 3
+          },
+          "Branches": []
+        },
+        "System.Void Flying.Falcon.Domain.Catalog.Rating::.ctor()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void Flying.Falcon.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "15": 3,
+            "16": 3,
+            "17": 3,
+            "18": 1,
+            "19": 1,
+            "21": 2,
+            "22": 0,
+            "23": 0,
+            "25": 2,
+            "26": 2,
+            "27": 2,
+            "28": 2
+          },
+          "Branches": [
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 17,
+              "Offset": 10,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 17,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 17,
+              "Offset": 21,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 21,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 43,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

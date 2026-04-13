@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/project-flying-falcon.Domain.Tests/project-flying-falcon.Domain.Tests.csproj" />
+  </Folder>
   <Project Path="project-flying-falcon.Api/project-flying-falcon.Api.csproj" />
   <Project Path="project-flying-falcon.Data/project-flying-falcon.Data.csproj" />
   <Project Path="project-flying-falcon.Domain/project-flying-falcon.Domain.csproj" />
