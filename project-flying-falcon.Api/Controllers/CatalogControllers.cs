@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Flying.Falcon.Domain.Catalog;
 using Flying.Falcon.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace project_flying_falcon.Api.Controllers
 {
@@ -9,8 +10,6 @@ namespace project_flying_falcon.Api.Controllers
     [Route("[controller]")]
     public class CatalogController : ControllerBase
     {
-        // _db is like a private instance variable in Java
-        // ASP.NET automatically provides it via dependency injection
         private readonly StoreContext _db;
 
         public CatalogController(StoreContext db)
@@ -18,14 +17,12 @@ namespace project_flying_falcon.Api.Controllers
             _db = db;
         }
 
-        // GET /catalog - returns all items from the database
         [HttpGet]
         public IActionResult GetItems()
         {
             return Ok(_db.Items);
         }
 
-        // GET /catalog/1234 - returns a single item by id
         [HttpGet("{id:int}")]
         public IActionResult GetItem(int id)
         {
@@ -37,7 +34,6 @@ namespace project_flying_falcon.Api.Controllers
             return Ok(item);
         }
 
-        // POST /catalog - adds a new item to the database
         [HttpPost]
         public IActionResult Post(Item item)
         {
@@ -46,7 +42,6 @@ namespace project_flying_falcon.Api.Controllers
             return Created($"/catalog/{item.Id}", item);
         }
 
-        // POST /catalog/1234/ratings - adds a rating to an item
         [HttpPost("{id:int}/ratings")]
         public IActionResult PostRating(int id, [FromBody] Rating rating)
         {
@@ -60,7 +55,6 @@ namespace project_flying_falcon.Api.Controllers
             return Ok(item);
         }
 
-        // PUT /catalog/1234 - updates an item by id
         [HttpPut("{id:int}")]
         public IActionResult PutItem(int id, [FromBody] Item item)
         {
@@ -77,8 +71,8 @@ namespace project_flying_falcon.Api.Controllers
             return NoContent();
         }
 
-        // DELETE /catalog/1234 - deletes an item by id
         [HttpDelete("{id:int}")]
+        [Authorize("delete:catalog")]
         public IActionResult DeleteItem(int id)
         {
             var item = _db.Items.Find(id);
