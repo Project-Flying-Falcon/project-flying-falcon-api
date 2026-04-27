@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JE/Stc1suoM=",
+  "dgSpecHash": "RkNpqpSuARI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj",
+  "projectFilePath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.Data\\project-flying-falcon.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13302\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.5\\microsoft.data.sqlite.core.10.0.5.nupkg.sha512",
     "C:\\Users\\13302\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.5\\microsoft.entityframeworkcore.10.0.5.nupkg.sha512",

@@ -2452,11 +2452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\project-flying-falcon.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\project-flying-falcon.Domain.Tests.csproj",
       "projectName": "project-flying-falcon.Domain.Tests",
-      "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\project-flying-falcon.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\project-flying-falcon.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\13302\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\tests\\project-flying-falcon.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\13302\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2471,8 +2471,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {
-              "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj"
+            "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {
+              "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj"
             }
           }
         }

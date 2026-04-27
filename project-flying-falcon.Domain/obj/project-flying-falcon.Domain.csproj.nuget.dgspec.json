@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {}
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.domain\\project-flying-falcon.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj": {
+    "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.domain\\project-flying-falcon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.domain\\project-flying-falcon.Domain.csproj",
         "projectName": "project-flying-falcon.Domain",
-        "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\project-flying-falcon.Domain.csproj",
+        "projectPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.domain\\project-flying-falcon.Domain.csproj",
         "packagesPath": "C:\\Users\\13302\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-web\\project-flying-falcon-api\\project-flying-falcon.Domain\\obj\\",
+        "outputPath": "C:\\Users\\13302\\OneDrive - The Ohio State University\\3rd Year\\project-flying-falcon-api\\project-flying-falcon.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\13302\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-flying-falcon.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76756fc5e7e72a06e084f7376407dd95d4cc0eea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a62c9507ba5c2d07f2b4b10ff9b01d463b3728a")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-flying-falcon.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-flying-falcon.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

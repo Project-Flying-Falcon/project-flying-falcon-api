@@ -46,3 +46,15 @@ C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falc
 C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-web\project-flying-falcon-api\project-flying-falcon.Domain\obj\Debug\net10.0\refint\project-flying-falcon.Domain.dll
 C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-web\project-flying-falcon-api\project-flying-falcon.Domain\obj\Debug\net10.0\project-flying-falcon.Domain.pdb
 C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-web\project-flying-falcon-api\project-flying-falcon.Domain\obj\Debug\net10.0\ref\project-flying-falcon.Domain.dll
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\bin\Debug\net10.0\project-flying-falcon.Domain.deps.json
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\bin\Debug\net10.0\project-flying-falcon.Domain.dll
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\bin\Debug\net10.0\project-flying-falcon.Domain.pdb
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.AssemblyInfoInputs.cache
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.AssemblyInfo.cs
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.sourcelink.json
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.dll
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\refint\project-flying-falcon.Domain.dll
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\project-flying-falcon.Domain.pdb
+C:\Users\13302\OneDrive - The Ohio State University\3rd Year\project-flying-falcon-api\project-flying-falcon.domain\obj\Debug\net10.0\ref\project-flying-falcon.Domain.dll
